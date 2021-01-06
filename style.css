@@ -113,3 +113,23 @@ img {
     width: 50px;
     margin: 0 10px;
 }
+.counter-section {
+    float: left;
+    width: 100%;
+}
+.single-counter {
+    text-align: center;
+    width: 20%;
+    float: left;
+    box-shadow: 2px 3px 20px #daacac;
+    margin-left: 2%;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.single-counter  h1 {
+    color: #5D69E9;
+}
+.single-counter p {
+    font-weight: 500;
+}
