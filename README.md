@@ -1,2 +1,2 @@
 # Portfolio Website
-<a target="_blank" href="https://rafikadir.github.io/portfolio-website/">Live View</a>
+<a href="https://rafikadir.github.io/portfolio-website/" target="_blank">Live View</a>
